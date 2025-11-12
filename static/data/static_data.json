@@ -1,0 +1,17 @@
+[
+  {"year": 1970, "continent": "Global", "temp_anomaly": -0.05, "co2": 325},
+  {"year": 1980, "continent": "Global", "temp_anomaly": 0.1, "co2": 340},
+  {"year": 1990, "continent": "Global", "temp_anomaly": 0.25, "co2": 355},
+  {"year": 2000, "continent": "Global", "temp_anomaly": 0.4, "co2": 370},
+  {"year": 2010, "continent": "Global", "temp_anomaly": 0.7, "co2": 390},
+  {"year": 2020, "continent": "Global", "temp_anomaly": 1.0, "co2": 410},
+  {"year": 2026, "continent": "Global", "temp_anomaly": 1.15, "co2": 420},
+
+  {"year": 1970, "continent": "Asia", "temp_anomaly": -0.1, "co2": 320},
+  {"year": 1980, "continent": "Asia", "temp_anomaly": 0.15, "co2": 335},
+  {"year": 1990, "continent": "Asia", "temp_anomaly": 0.3, "co2": 355},
+  {"year": 2000, "continent": "Asia", "temp_anomaly": 0.45, "co2": 375},
+  {"year": 2010, "continent": "Asia", "temp_anomaly": 0.8, "co2": 400},
+  {"year": 2020, "continent": "Asia", "temp_anomaly": 1.1, "co2": 415},
+  {"year": 2026, "continent": "Asia", "temp_anomaly": 1.2, "co2": 425}
+]

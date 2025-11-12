@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Climate Visualization - Home</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+  <header>
+    <h1>🌍 Temperature Anomalies & CO₂ Visualization Tool</h1>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/visualization">Visualization</a>
+    </nav>
+  </header>
+
+  <main class="home">
+    <section class="intro">
+      <p>
+        Explore how rising global temperatures relate to atmospheric CO₂
+        concentrations across continents from 1970 to 2026.
+      </p>
+      <button onclick="window.location.href='/visualization'" class="btn">
+        View Visualization →
+      </button>
+    </section>
+  </main>
+
+  <footer>
+    <p>Team E — Climate Data Visualization Project</p>
+  </footer>
+</body>
+</html>

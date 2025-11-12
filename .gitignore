@@ -1,0 +1,28 @@
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-arg.txt
+
+# Flask
+instance/
+.flaskenv
+
+# Virtual Environment (if not inside project root)
+# If your virtual environment is outside the project root, you might need to adjust this.
+# For example, if it's named 'my_flask_env' in your home directory:
+# ~/my_flask_env/
+
+# Other common ignores
+.DS_Store
+Thumbs.db
