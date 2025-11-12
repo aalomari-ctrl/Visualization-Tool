@@ -93,7 +93,7 @@ Use the dropdown to select a continent and the slider to adjust the year range.
 
 | Home Page | Visualization Page |
 |------------|--------------------|
-| ![Home](static/images/home_mock.png) | ![Visualization](static/images/visualization_mock.png) |
+| ![Home](static/images/Screenshot 2025-11-12 at 12.17.58 AM.png) | ![Visualization](static/images/Screenshot 2025-11-12 at 12.17.34 AM.png) |
 
 ---
 
